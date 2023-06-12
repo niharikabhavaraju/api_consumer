@@ -1,5 +1,16 @@
 # README
 
+
+Run this application on a different port, so that it will consume api from api_provider
+rails s -p 3001
+
+This application consumes products api from Api Provider application, we can create/edit/delete/view 
+products which will modify product api data.
+
+![Uploading Screenshot![Screenshot 2023-06-12 at 4 35 02 PM](https://github.com/niharikabhavaraju/api_consumer/assets/31915502/16f812b6-5f71-438a-899b-0ccfcf29a822)
+ 2023-06-12 at 4.35.02 PM.png…]()
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
