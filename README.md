@@ -1,6 +1,8 @@
 # README
 
 Prior to running this application, make sure the api_provider application is running on port 3000
+
+
 Run this application on a different port, so that it will consume api from api_provider
 rails s -p 3001
 
