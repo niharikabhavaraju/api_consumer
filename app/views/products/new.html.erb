@@ -1,0 +1,20 @@
+<h1>New Product</h1>
+
+<form action="<%= products_path %>" method="post" id="new-product-form">
+  <%= hidden_field_tag 'authenticity_token', form_authenticity_token %>
+
+  <div>
+    <label for="product_name">Name</label>
+    <input type="text" id="product_name" name="product[name]">
+  </div>
+
+  <div>
+    <label for="product_price">Price</label>
+    <input type="number" id="product_price" name="product[price]">
+  </div>
+
+  <div>
+    <input type="submit" value="Create Product">
+  </div>
+</form>
+<%= link_to 'Back', products_path, class: 'btn btn-primary' %>
