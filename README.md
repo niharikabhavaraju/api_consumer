@@ -14,22 +14,4 @@ products which will modify product api data.
 
 ![Screenshot 2023-06-12 at 4 35 02 PM](https://github.com/niharikabhavaraju/api_consumer/assets/31915502/9c224e58-4d20-413d-8983-ad3aecbfcb32)
 
-Things you may want to cover:
 
-* Ruby version :
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
